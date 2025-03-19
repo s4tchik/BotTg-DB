@@ -10,8 +10,8 @@ from datetime import datetime, timedelta
 import uuid
 
 # Конфигурация
-BOT_TOKEN = "7597499330:AAFV_qzG1EpcW6cxN-MY2ZJwcwVQWJFL9GQ"  # Токен бота
-ADMIN_IDS = [1089550963]  # ID администраторов
+BOT_TOKEN = "1"  # Токен бота
+ADMIN_IDS = [1]  # ID администраторов
 
 # Инициализация бота
 bot = Bot(token=BOT_TOKEN)
